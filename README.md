@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="AegisLife Insurance Logo" width="180">
+  <img width="180" height="53" alt="LOGO" src="https://github.com/user-attachments/assets/63ffa2d7-5b57-4c9a-b899-cf381f62bd14">
 </p>
 
 <h1 align="center">Insurance Risk & Claims Analytics Dashboard</h1>
@@ -247,43 +247,50 @@ Project navigation
 
 ## Home
 
-![](assets/home.png)
+<img width="1547" height="863" alt="Home" src="https://github.com/user-attachments/assets/ee4d692d-660e-4334-85a3-9e19fca6596b" />
+
 
 ---
 
 ## Executive Overview
 
-![](assets/executive.png)
+<img width="1530" height="862" alt="Executive_Overview" src="https://github.com/user-attachments/assets/0dad2c30-9e39-4149-98ce-94b358a43112" />
+
 
 ---
 
 ## Claims & Fraud
 
-![](assets/claims.png)
+<img width="1541" height="863" alt="Claims_Fraud" src="https://github.com/user-attachments/assets/f2b6c918-0ca7-4fab-af93-88c0dcb04626" />
+
 
 ---
 
 ## Customer Risk
 
-![](assets/customer.png)
+<img width="1540" height="863" alt="Customer_Risk" src="https://github.com/user-attachments/assets/00af00bf-3985-4985-85a9-728c306eeda8" />
+
 
 ---
 
 ## Regional Analysis
 
-![](assets/regional.png)
+<img width="1540" height="862" alt="Regional_Analysis" src="https://github.com/user-attachments/assets/03ccab78-0ed1-4c08-b32d-4f65a892cf5b" />
+
 
 ---
 
 ## Agent Performance
 
-![](assets/agent.png)
+<img width="1542" height="865" alt="Agent_Performance" src="https://github.com/user-attachments/assets/05f8b4ab-179e-4ff7-80f9-8625b2bc3e18" />
+
 
 ---
 
 ## Forecasting
 
-![](assets/forecast.png)
+<img width="1545" height="863" alt="Forecasting" src="https://github.com/user-attachments/assets/89d24211-eaac-4423-a93e-a7bf84f51439" />
+
 
 ---
 
